@@ -6,3 +6,6 @@ h1{
     color: blue;
     background-color: aliceblue;
 }
+img{
+    border: blue solid 5px;
+}
