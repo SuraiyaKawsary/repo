@@ -6,3 +6,7 @@ h1{
     color: blue;
     background-color: aliceblue;
 }
+img{
+    border: 6px;
+    padding: 20px;
+}
